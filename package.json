@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/NG-Joseph/typescript-review/issues"
   },
-  "homepage": "https://github.com/NG-Joseph/typescript-review#readme"
+  "homepage": "https://github.com/NG-Joseph/typescript-review#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "typescript": "^3.8.3"
+  }
 }
