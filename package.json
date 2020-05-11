@@ -1,0 +1,22 @@
+{
+  "name": "typescript-review",
+  "version": "0.0.1",
+  "description": "ISM 219 Typescript review class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NG-Joseph/typescript-review.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Joseph Nwokotubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NG-Joseph/typescript-review/issues"
+  },
+  "homepage": "https://github.com/NG-Joseph/typescript-review#readme"
+}
